@@ -1,6 +1,6 @@
 # 🎰 Brain Juice - Claude Code Sound Effects
 
-Claude Codeのタスク完了時にパチスロの「プチュン」音を鳴らすジョークリポジトリです。
+Claude Codeのタスク完了時に脳汁を出すためのジョークリポジトリです。
 
 > **💡 Inspired by:** このリポジトリは [guchey/buhi](https://github.com/guchey/buhi) からアイデアをいただきました。素晴らしいジョークリポジトリに感謝します！
 
