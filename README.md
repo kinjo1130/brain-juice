@@ -14,7 +14,7 @@ Claude Codeのタスク完了時に脳汁を出すためのジョークリポジ
 各ディレクトリに音源ファイルと詳しい設定方法のREADMEが含まれています：
 
 - **[puchun](./puchun/)** - パチスロのボーナス確定音「プチュン」
-- **[unicooooorn](./unicooooorn/)** - パチスロの告知音「ユニコーーーーン！」
+- **[unicooooorn](./unicorn/)** - パチスロの告知音「ユニコーーーーン！」
 - **[sakibare](./sakibare/)** - パチスロの先バレ演出音
 - **[sevenfura](./sevenfura/)** - パチスロのセブンフラッシュ演出音
 
